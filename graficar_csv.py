@@ -16,6 +16,7 @@ conteo_agrupacion: pandas.Series=agrupar["Name"].count() # series
 
 conteo_agrupacion= conteo_agrupacion.sort_values()
 
+
 conteo_agrupacion=conteo_agrupacion[0:5]  # rango de valores
 
 indices=conteo_agrupacion.index.values  # ndarray

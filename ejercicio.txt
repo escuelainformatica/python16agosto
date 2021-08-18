@@ -1,0 +1,49 @@
+
+Obtener el promedio de las edades de jugadores por equipo y graficar los 10 primeros.
+
+1) leer los datos desde el csv
+2) agrupar los datos.
+3) obtener la columna que me interesa y obtener el promedio.
+4) ordenar los datos y cortar los 10 primeros
+5) luego, separar los datos entre el indice y los valores.
+6) graficar
+
+Use mean() en vez de count()
+
+Sin graficar.
+Cual es el jugador que tiene mas edad?
+
+
+Ejercicio2
+Copie el archivo percent_bachelors_degrees_women_usa.csv en la carpeta del proyecto.
+
+Este archivo tiene el porcentaje de participacion en las mujeres en las universidades.
+
+Necesitamos graficar los datos (por año) de las mujeres que han estudiado "Architecture"
+y ordenado por año
+
+1) cargar liberias
+2) cargas csv
+3) solo dejar la columna "Architecture" y la columna "Year"
+4) separar las columnas para usarlo en los ejes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
