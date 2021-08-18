@@ -1,5 +1,5 @@
-import numpy as np
-import pandas as pd
+import numpy as np   # rapido
+import pandas as pd  # potencia
 
 
 datos=pd.read_csv("mlb_players.csv",quotechar='"',skipinitialspace=True,)
